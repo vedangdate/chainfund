@@ -1,0 +1,15 @@
+node_modules/
+.env
+.env.*
+!.env.example
+cache/
+artifacts/
+coverage/
+coverage.json
+typechain-types/
+dist/
+backend/chainfund.db
+backend/chainfund.db-*
+deployments/localhost.json
+*.log
+.DS_Store
