@@ -1,8 +1,7 @@
 {
-  "address": "0x0000000000000000000000000000000000000000",
+  "address": "0x49Ed5131DEbdb9F8E9E3dB9853d1aDB01b991EEF",
   "chainId": 11155111,
   "network": "sepolia",
-  "fromBlock": 0,
   "abi": [
     {
       "inputs": [],
@@ -465,5 +464,6 @@
       "stateMutability": "nonpayable",
       "type": "function"
     }
-  ]
+  ],
+  "fromBlock": 11164039
 }
