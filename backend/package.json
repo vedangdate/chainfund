@@ -1,0 +1,19 @@
+{
+  "name": "chainfund-backend",
+  "version": "1.0.0",
+  "description": "ChainFund indexer + REST API — polls on-chain events into SQLite and serves them",
+  "license": "MIT",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^11.8.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "ethers": "^6.13.5",
+    "express": "^4.21.2"
+  }
+}
