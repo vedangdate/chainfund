@@ -9,7 +9,7 @@ This is a compact, end-to-end Web3 reference project: a secure Solidity contract
 a React + wagmi frontend with wallet connect, and a Node indexer that turns
 on-chain events into a queryable REST API.
 
-> **Live demo:** https://vedangdate.github.io/chainfund/ (Sepolia testnet)
+> **Live demo:** https://chainfund.vedang.date (Sepolia testnet)
 > **Contract:** [`0x49Ed5131DEbdb9F8E9E3dB9853d1aDB01b991EEF`](https://sepolia.etherscan.io/address/0x49Ed5131DEbdb9F8E9E3dB9853d1aDB01b991EEF) on Sepolia
 >
 > To try it: install MetaMask, switch to Sepolia, grab free test-ETH from a faucet, then pledge/create on the live site.
